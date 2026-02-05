@@ -14,7 +14,11 @@ SAP (FI, CO)
 Processi aziendali
 Contesti enterprise
 Analisi funzionale
-Lingue Francese , Inglese, Italiano
+
+Lingue:
+Francese
+Inglese
+Italiano
 
 Località:
 Svizzera
